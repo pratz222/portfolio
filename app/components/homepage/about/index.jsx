@@ -33,7 +33,7 @@ function AboutSection() {
           <Image
             src={personalData.profile}
             width={360}
-            height={220}
+            height={280}
             alt="Pratyush"
             className="rounded-lg transition-all duration-1000 hover:grayscale-0 hover:scale-110 cursor-pointer"
           />
