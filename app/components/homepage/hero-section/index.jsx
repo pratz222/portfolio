@@ -61,7 +61,7 @@ function HeroSection() {
         </div>
         
         <div className="order-1 lg:order-2 flex justify-center items-center">
-          <div className="w-full max-w-md h-64 md:h-80 lg:h-96">
+          <div className="w-full max-w-xl">
             <AnimationLottie animationPath={lottieFile} />
           </div>
         </div>
