@@ -7,6 +7,8 @@ import { BsGithub, BsLinkedin } from "react-icons/bs";
 import { FaInstagram, FaTwitterSquare } from "react-icons/fa";
 import { SiResearchgate, SiLeetcode } from "react-icons/si";
 import { MdDownload } from "react-icons/md";
+import AnimationLottie from "../../helper/animation-lottie";
+import lottieFile from '/public/drone-animation.json';
 
 function HeroSection() {
   return (
@@ -59,14 +61,9 @@ function HeroSection() {
         </div>
         
         <div className="order-1 lg:order-2 flex justify-center items-center">
-          <Image 
-            src="/drone.gif" 
-            alt="Animation" 
-            width={500} 
-            height={500} 
-            className="w-full max-w-xl" 
-            priority
-          />
+          <div className="w-full max-w-xl">
+            <AnimationLottie animationPath={lottieFile} />
+          </div>
         </div>
       </div>
     </section>
@@ -74,4 +71,3 @@ function HeroSection() {
 }
 
 export default HeroSection;
-
