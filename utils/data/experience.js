@@ -1,9 +1,9 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Avionics Intern',
+    title: 'Embedded Software Engineer [Avionics] Intern',
     company: "Ideaforge Technology Ltd.",
-    duration: "Jan 2025 - Present"
+    duration: "Jan 2025 - July 2025"
   },
   {
     id: 2,
@@ -14,7 +14,7 @@ export const experiences = [
   {
     id: 3,
     title: "Embedded System & IoT Intern",
-    company: "AiROBOSOFT Products And Services",
+    company: "AiROBOSOFT Products And Services Ltd.",
     duration: "Oct 2023 - Jan 2024"
   }
 ]
