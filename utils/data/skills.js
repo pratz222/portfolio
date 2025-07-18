@@ -18,6 +18,6 @@ export const skillsData = [
   'MQTT',
   'Baremetal',
   'Driver Development',
-  'AUTOSAR (Basic)'
+  'AUTOSAR'
 ]
 
