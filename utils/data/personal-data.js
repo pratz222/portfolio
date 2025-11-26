@@ -2,7 +2,7 @@ export const personalData = {
   name: "PRATYUSH",
   profile: '/profile.png',
   designation: "Embedded Software Engineer",
-  description: "From controllers to cars, I'm all in. My fascination lies in the realm of Embedded Systems, Avionics and Internet of Things, where I love to tinker with differrent microcontrollers, sensors and IoT devices. My hands-on experience with these technologies has allowed me to develop a deep understanding of their potential and the ability to leverage them to solve complex problems. I'm driven by the potential to improve lives through technology. I've also explored Automotive Electronics, gaining insights into automotive communication protocols and AUTOSAR, further broadening my technical skill set. My diverse project experience, including participating in hackathons and competitions, has taught me how to approach challenges creatively and practically.",
+  description: "There's something magnetic about that 2 AM moment when a microcontroller finally responds exactly how you imagined, or when a sensor starts singing data in perfect harmony with your code. For me, engineering isn't about accumulating knowledge, it's about that immediate, almost compulsive need to see ideas breathe through hardware. My world revolves around embedded systems and the beautiful chaos they create. Give me a new protocol, architecture, or sensor, and I'll have it talking to a microcontroller before my coffee gets cold. I thrive in that space where hardware meets software, crafting solutions that feel intuitive and alive. What excites me most is finding unique angles to common problems. Every project becomes a playground for exploring "what if we tried it this way?" I've discovered that the most innovative solutions often emerge at unexpected intersections, when different engineering disciplines collide, when medical challenges meet embedded intelligence, or when edge AI transforms simple sensors into decision-makers.",
   email: 'work.pratyush222@gmail.com',
   phone: '',
   address: 'Bengaluru, India',
@@ -14,7 +14,7 @@ export const personalData = {
   stackOverflow: 'https://stackoverflow.com/users/',
   leetcode: "https://leetcode.com/",
   devUsername: "said7388",
-  instagram: "https://www.instagram.com/pratz222",
+  instagram: "https://www.instagram.com/pratz_222",
   researchGate: "https://www.researchgate.net/profile/Pratyush",
   resume: 'https://drive.google.com/file/d/1f2zp1IvhYsK2Lsr-47sVA8uBHoh-fogC/view?usp=drive_link'
 }
