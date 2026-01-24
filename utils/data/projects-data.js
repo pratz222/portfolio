@@ -10,7 +10,7 @@ export const selectedProjects = [
     title: "AegisHex – Cube Orange+ Autopilot Based Hexacopter UAV",
     description: "AegisHex is a custom-built hexacopter UAV platform designed, assembled, and flight-tested using a Cube Orange+ autopilot. The project focuses on robust flight control, modular avionics integration, and real-world UAV system engineering, covering both hardware and software aspects of unmanned aerial systems.",
     url: "https://github.com/pratz222/AegisHex-Cube-Orange-Autopilot-Based-Hexacopter-UAV",
-    image: "/assets/projects/Drone3.png"
+    image: "/assets/projects/Drone3.jpg"
   },
   {
     title: "Crop Specific Smart Irrigation System with IoT",
