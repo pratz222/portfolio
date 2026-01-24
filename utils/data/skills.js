@@ -12,7 +12,7 @@ export const skillsData = [
   'CAN',
   'Cube Orange AUTOPILOT',
   'MATLAB',
-  'UART'
+  'UART',
   'I2C',
   'SPI',
   'Ethernet',
@@ -25,5 +25,6 @@ export const skillsData = [
   'Assembly',
   'AUTOSAR'
 ]
+
 
 
