@@ -57,11 +57,11 @@ function ContactForm() {
   return (
     <div className="">
       <p className="font-medium mb-5 text-[#16f2b3] text-xl uppercase">
-        Contact with me
+        Let's Build Something Amazing Together
       </p>
       <div className="max-w-3xl text-[#d3d8e8] rounded-lg border border-[#464c6a] p-3 lg:p-5">
         <p className="text-sm text-violet-200">
-          {"If you have any questions or concerns, please don't hesitate to contact me. I am open to any work opportunities that align with my skills and interests."}
+          {"Let's design smarter systems for a seamlessly connected future. Have a project in mind or want to discuss job opportunities ? I'd love to hear from you!"}
         </p>
         <div className="mt-6 flex flex-col gap-4">
           <div className="flex flex-col gap-2">
