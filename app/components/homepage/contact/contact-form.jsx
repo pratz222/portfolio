@@ -57,7 +57,7 @@ function ContactForm() {
   return (
     <div className="">
       <p className="font-medium mb-5 text-[#16f2b3] text-xl uppercase">
-        Let's Build Something Amazing Together
+        Lets Build Something Amazing Together
       </p>
       <div className="max-w-3xl text-[#d3d8e8] rounded-lg border border-[#464c6a] p-3 lg:p-5">
         <p className="text-sm text-violet-200">
