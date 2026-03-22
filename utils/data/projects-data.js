@@ -6,12 +6,12 @@ export const selectedProjects = [
     url: "https://ieeexplore.ieee.org/document/10730969",
     image: "/assets/projects/acl.png"
   },
-  {
+  /*{
     title: "AegisHex – Cube Orange+ Autopilot Based Hexacopter UAV",
     description: "AegisHex is a custom-built hexacopter UAV platform designed, assembled, and flight-tested using a Cube Orange+ autopilot. The project focuses on robust flight control, modular avionics integration, and real-world UAV system engineering, covering both hardware and software aspects of unmanned aerial systems.",
     url: "https://github.com/pratz222/AegisHex-Cube-Orange-Autopilot-Based-Hexacopter-UAV",
     image: "/assets/projects/Drone3.jpg"
-  },
+  },*/
   {
     title: "Crop-Specific, Weather-Driven Self-Optimizing IoT Irrigation System",
     description: "This project implements a smart irrigation system using ESP32 microcontrollers to measure soil moisture, temperature, and rain detection data in real-time. The system sends data to a Firebase Realtime Database and adjusts water output based on predefined crop categories and moisture levels, ensuring efficient and automated irrigation.",
